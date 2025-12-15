@@ -41,16 +41,7 @@ TTE platform design
 
 ---
 
-## 📂 Additional Resources
 
-For SSL Oman collaboration, we can provide:
-- Working project models
-- Sample use-cases
-- Reference use cases for asset management
-- Data governance framework
-- Sample automations
-
----
 
 ## 📞 Contact
 
