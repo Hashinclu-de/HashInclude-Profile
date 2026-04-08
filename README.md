@@ -1,6 +1,6 @@
 # HashInclude UI/UX Portfolio
 
-## SSL Oman Collaboration - Design Showcase
+## Design Showcase
 
 Welcome to HashInclude's UI/UX design portfolio. Below you'll find our previous design work including website designs and mobile applications.
 
