@@ -44,7 +44,7 @@ A comprehensive art e-commerce platform that facilitates the buying and selling 
 **Client:** Dubai Municipality  
 The web-based counterpart to the Makani mobile application, providing comprehensive location services and navigation capabilities for Dubai. The platform enables users to leverage Makani's unique addressing system through desktop access, with advanced mapping and route planning features.
 
-### [Travvise Gamification Platform](Travvise.pdf)
+### [Traverse Gamification Platform](Travvise.pdf)
 **Client:** STS / RTA Dubai  
 An innovative gamification platform developed for road safety awareness initiatives proposed by RTA Dubai. Travvise transforms road safety education into an engaging, interactive experience, encouraging users to adopt safer driving behaviors through game mechanics, challenges, and rewards.
 
